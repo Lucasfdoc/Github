@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="out">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SimCardInfo-main/build/intermediates/project_dex_archive/debug/out/1a12ebac97066672bf7111bad3b64b09912ddea27e55bda6d46757e31f245e0d_2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimCardInfo-main/build/intermediates/project_dex_archive/debug/out/1a12ebac97066672bf7111bad3b64b09912ddea27e55bda6d46757e31f245e0d_1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimCardInfo-main/build/intermediates/project_dex_archive/debug/out/1a12ebac97066672bf7111bad3b64b09912ddea27e55bda6d46757e31f245e0d_3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/SimCardInfo-main/build/intermediates/project_dex_archive/debug/out/1a12ebac97066672bf7111bad3b64b09912ddea27e55bda6d46757e31f245e0d_0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
